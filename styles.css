@@ -17,6 +17,7 @@ a {
 
 a:hover {
   color: aquamarine;
+  text-decoration: underline aquamarine;
 }
 
 .nav-bar {
@@ -53,6 +54,7 @@ a:hover {
   color: #161616;
   font-size: 22px;
   margin-bottom: 16px;
+  text-decoration: none;
 
 }
 
