@@ -11,6 +11,7 @@ a {
   text-decoration: none;
   color: tomato;
   transition: all 0.25s;
+  
 
 
 }
@@ -18,6 +19,11 @@ a {
 a:hover {
   color: aquamarine;
   text-decoration: underline aquamarine;
+}
+
+a:active {
+  opacity: 20%;
+
 }
 
 .nav-bar {
@@ -249,9 +255,7 @@ a:hover {
   color: aquamarine;
 }
 
-.links-text:active {
-  opacity: 20%;
-}
+
 
 .email {
   margin: 0px;
