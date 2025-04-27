@@ -59,6 +59,10 @@ a:hover {
 }
 
 
+.botao-assuntos:active {
+  opacity: 20%;
+}
+
 .profile-photo-name-container {
   width: 500px;
   margin-top: 10px;
@@ -243,6 +247,10 @@ a:hover {
 
 .links-text:hover {
   color: aquamarine;
+}
+
+.links-text:active {
+  opacity: 20%;
 }
 
 .email {
